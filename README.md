@@ -1,1 +1,10 @@
 # GitCoin_Nervos-Task_6
+
+1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+
+![image](https://user-images.githubusercontent.com/87713875/128724045-472b669c-5f49-4f30-bcfd-2bf781b332e5.png)
+
+2. Your Deposit Receiver Address (in text format).
+
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqqzhwd875ukwq08zd8tv6f4xf5rc4fjrfgm5jjf49gtwn458q56ju6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k564xasglwgckrwpwp6px0qtzv68rnt3pvq9rqgqqqqqqcqjca4fx
+
